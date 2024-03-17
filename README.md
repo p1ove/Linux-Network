@@ -1,5 +1,6 @@
 # Linux-Network
 Linux networks configuration on virtual machines.
+- ![part1](part5_network.png)
 #####################################################
 
 ## 1.1. Сети и маски
@@ -104,6 +105,8 @@ Linux networks configuration on virtual machines.
 
 
 ## Part 5. Статическая маршрутизация сети
+
+- ![part1](part5_network.png)
 
 - Подними пять виртуальных машин (3 рабочие станции (ws11, ws21, ws22) и 2 роутера (r1, r2)).
 
